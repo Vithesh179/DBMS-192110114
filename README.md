@@ -5,3 +5,5 @@ DDL COMMAND (CREATE,ALTER,DROP)-(https://github.com/Vithesh179/DBMS-192110114/bl
 DDL COMANDS (PRIMERY KEY,FORIEGN KEY)-(https://github.com/Vithesh179/DBMS-192110114/blob/main/exp%202.txt)
 ##experiment 3
 DML COMAND (INSERT,SELECT)-(https://github.com/Vithesh179/DBMS-192110114/blob/main/exp%203.txt)
+##experiment 4
+DML COMAND UPDATE,DELETE-(
