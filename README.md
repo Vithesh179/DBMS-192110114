@@ -12,6 +12,7 @@ SELECT WITH VARIOUS CLAUSES- WHERE,PATTERN MATCHING(https://github.com/Vithesh17
 ##experiment 6
 SELECT WITH VARIOUS CLAUSES-BETWEEN,IN,AGGRATE FUNCTIONS(https://github.com/Vithesh179/DBMS-192110114/blob/main/experi%206.txt)
 ##EXPERIMENT 7
-SELECT with various clause - GROUP BY, ORDER BY , HAVING .(
+SELECT with various clause - GROUP BY, ORDER BY , HAVING .(https://github.com/Vithesh179/DBMS-192110114/blob/main/experi%207.txt)
+
 
 
