@@ -7,4 +7,6 @@ DDL COMANDS (PRIMERY KEY,FORIEGN KEY)-(https://github.com/Vithesh179/DBMS-192110
 DML COMAND (INSERT,SELECT)-(https://github.com/Vithesh179/DBMS-192110114/blob/main/exper%203.txt)
 ##experiment 4
 DML COMAND UPDATE,DELETE-(https://github.com/Vithesh179/DBMS-192110114/blob/main/exper%204.txt)
+##experiment 5
+SELECT WITH VARIOUS CLAUSES- WHERE,PATTERN MATCHING(
 
