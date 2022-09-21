@@ -15,6 +15,8 @@ SELECT WITH VARIOUS CLAUSES-BETWEEN,IN,AGGRATE FUNCTIONS(https://github.com/Vith
 SELECT with various clause - GROUP BY, ORDER BY , HAVING .(https://github.com/Vithesh179/DBMS-192110114/blob/main/experi%207.txt)
 ##EXPERIMENT 8
 SUBQURIES AND CORELETAED QUERY-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experi%208.txt)
+##EXPERIMENT 9
+JOINS-(equijoin,Inner join ,Outer join)-(
 
 
 
