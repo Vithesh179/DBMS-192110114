@@ -14,7 +14,8 @@ SELECT WITH VARIOUS CLAUSES-BETWEEN,IN,AGGRATE FUNCTIONS(https://github.com/Vith
 ##EXPERIMENT 7
 SELECT with various clause - GROUP BY, ORDER BY , HAVING .(https://github.com/Vithesh179/DBMS-192110114/blob/main/experi%207.txt)
 ##EXPERIMENT 8
-SUBQURIES AND CORELETAED QUERY-(
+SUBQURIES AND CORELETAED QUERY-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experi%208.txt)
+
 
 
 
