@@ -9,5 +9,7 @@ DML COMAND (INSERT,SELECT)-(https://github.com/Vithesh179/DBMS-192110114/blob/ma
 DML COMAND UPDATE,DELETE-(https://github.com/Vithesh179/DBMS-192110114/blob/main/exper%204.txt)
 ##experiment 5
 SELECT WITH VARIOUS CLAUSES- WHERE,PATTERN MATCHING(https://github.com/Vithesh179/DBMS-192110114/blob/main/experi%205.txt)
+##experiment 6
+SELECT WITH VARIOUS CLAUSES-BETWEEN,IN,AGGRATE FUNCTIONS(
 
 
