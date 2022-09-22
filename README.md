@@ -17,6 +17,8 @@ SELECT with various clause - GROUP BY, ORDER BY , HAVING .(https://github.com/Vi
 SUBQURIES AND CORELETAED QUERY-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experi%208.txt)
 ##EXPERIMENT 9
 JOINS-(equijoin,Inner join ,Outer join)-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experi%209.txt)
+##EXPERIMENT 10
+       VIEW, INDEX,SEQUENCE-(
 
 
 
