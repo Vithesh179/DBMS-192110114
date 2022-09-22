@@ -30,7 +30,8 @@ HOSPITAL-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experi%2023.txt
 ## EXPERIMENT 24
 CAR RENTAL COMPANY-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experi%2024.txt)
 ## EXPERIMENT 25
-STUDENT PROGRESS MONITARING SYSTEM-(
+STUDENT PROGRESS MONITARING SYSTEM-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experi%2025.txt)
+
 
 
 
