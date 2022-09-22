@@ -18,7 +18,8 @@ SUBQURIES AND CORELETAED QUERY-(https://github.com/Vithesh179/DBMS-192110114/blo
 ##EXPERIMENT 9
 JOINS-(equijoin,Inner join ,Outer join)-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experi%209.txt)
 ##EXPERIMENT 10
-       VIEW, INDEX,SEQUENCE-(
+       VIEW, INDEX,SEQUENCE-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experi%2010.txt)
+       
 
 
 
