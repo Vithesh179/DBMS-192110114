@@ -39,6 +39,9 @@ PHP AND MYSQL-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experiment
 JAVA AND MS ACESS-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experiment%2021.txt)
 ## EXPERIMENT 14
 GRANT,REVOKE-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experi%2014.txt)
+## EXPERIMENT 20
+USING JAVA AND MYSQL-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experiment%2020)
+
 
 
 
