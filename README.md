@@ -7,6 +7,7 @@ DDL COMMAND (CREATE,ALTER,DROP)-(https://github.com/Vithesh179/DBMS-192110114/bl
 ## experiment 2
 DDL COMANDS (PRIMERY KEY,FORIEGN KEY)-(https://github.com/Vithesh179/DBMS-192110114/blob/main/exp%202.txt)
 #### foriegn-(https://github.com/Vithesh179/DBMS-192110114/blob/main/Foreign%20key.txt)
+#### primary-(https://github.com/Vithesh179/DBMS-192110114/blob/main/primary.txt)
 ## experiment 3
 DML COMAND (INSERT,SELECT)-(https://github.com/Vithesh179/DBMS-192110114/blob/main/exper%203.txt)
 ## experiment 4
