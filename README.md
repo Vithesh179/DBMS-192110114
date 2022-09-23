@@ -43,6 +43,8 @@ GRANT,REVOKE-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experi%2014
 PROCEDURES -(https://github.com/Vithesh179/DBMS-192110114/blob/main/experiment%2015.tx)
 ## EXPERIMMENT 17
 CURSORS-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experiment%2017)
+## EXPERIMENT 18
+TRIGGERS-(
 ## EXPERIMENT 19
 PHP AND MYSQL-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experiment%2019.txt)
 ## EXPERIMENT 20
