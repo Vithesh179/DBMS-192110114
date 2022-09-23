@@ -11,6 +11,7 @@ DDL COMANDS (PRIMERY KEY,FORIEGN KEY)-(https://github.com/Vithesh179/DBMS-192110
 ## experiment 3
 DML COMAND (INSERT,SELECT)-(https://github.com/Vithesh179/DBMS-192110114/blob/main/exper%203.txt)
 #### insert-(https://github.com/Vithesh179/DBMS-192110114/blob/main/insert)
+#### select-(https://github.com/Vithesh179/DBMS-192110114/blob/main/select)
 ## experiment 4
 DML COMAND UPDATE,DELETE-(https://github.com/Vithesh179/DBMS-192110114/blob/main/exper%204.txt)
 ## experiment 5
