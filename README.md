@@ -15,6 +15,7 @@ DML COMAND (INSERT,SELECT)-(https://github.com/Vithesh179/DBMS-192110114/blob/ma
 ## experiment 4
 DML COMAND UPDATE,DELETE-(https://github.com/Vithesh179/DBMS-192110114/blob/main/exper%204.txt)
 #### update-(https://github.com/Vithesh179/DBMS-192110114/blob/main/update)
+#### delete-(https://github.com/Vithesh179/DBMS-192110114/blob/main/delete)
 ## experiment 5
 SELECT WITH VARIOUS CLAUSES- WHERE,PATTERN MATCHING(https://github.com/Vithesh179/DBMS-192110114/blob/main/experi%205.txt)
 ## experiment 6
