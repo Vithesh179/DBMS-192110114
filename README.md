@@ -38,7 +38,8 @@ PHP AND MYSQL-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experiment
 ## EXPERIMENT 21
 JAVA AND MS ACESS-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experiment%2021.txt)
 ## EXPERIMENT 14
-GRANT,REVOKE-(
+GRANT,REVOKE-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experi%2014.txt)
+
 
 
 
