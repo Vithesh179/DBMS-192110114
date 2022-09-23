@@ -44,7 +44,7 @@ PROCEDURES -(https://github.com/Vithesh179/DBMS-192110114/blob/main/experiment%2
 ## EXPERIMMENT 17
 CURSORS-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experiment%2017)
 ## EXPERIMENT 18
-TRIGGERS-(
+TRIGGERS-(https://github.com/Vithesh179/DBMS-192110114/blob/main/EXPERIMENT%2018)
 ## EXPERIMENT 19
 PHP AND MYSQL-(https://github.com/Vithesh179/DBMS-192110114/blob/main/experiment%2019.txt)
 ## EXPERIMENT 20
